@@ -3,7 +3,7 @@
 - 🌱 Estou Aprendendo a programar, estou estudando <strong>Html</strong>, <strong>Css</strong>, <strong>Js</strong>
 
 <div align="center">
-  <a href="https://github.com/Simbyonte333">
+  <a href="https://github.com/Simbyonte333/Samuel-Jordano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simbyonte333&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simbyonte333&layout=compact&langs_count=7&theme=jolly"/>
 </div>
