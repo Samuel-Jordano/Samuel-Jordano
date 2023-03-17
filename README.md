@@ -1,6 +1,6 @@
 ### Olá sou SamueL Jordano 👋
 - 📝 Programando meu Sucesso!
-- 🌱 Estou Aprendendo a programar, em breve um Grande Programador...
+- 🌱 Estou Aprendendo a programar, estou estudando <strong>Html</strong>, <strong>Css</strong>, <strong>Js</strong>
 
 <div align="center">
   <a href="https://github.com/Simbyonte333">
