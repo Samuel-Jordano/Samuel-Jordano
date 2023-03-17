@@ -13,5 +13,5 @@
   <img align="center" alt="Muca-Html" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Muca-Css" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
   <img align="right" alt="Muca-pic" height="150" style="border-radius:50px;"
-  src="https://cdn.discordapp.com/attachments/1005583818129952882/1028437871104905296/spiderman-symbiote-spiderman.gif">
+  src="https://tenor.com/pt-BR/view/spiderman-symbiote-spiderman-marvel-symbiote-gif-14271090">
 </div>
