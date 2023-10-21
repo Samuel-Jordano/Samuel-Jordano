@@ -1,6 +1,5 @@
 ### Olá sou SamueL Jordano 👋
 - 📝 Programando meu Sucesso!
-- 🌱 Estou Aprendendo a programar, estou estudando <strong>Html</strong>, <strong>Css</strong>, <strong>Js</strong>
 - 🏆 Estudando: C/C++ e Python
 
 <div align="center">
