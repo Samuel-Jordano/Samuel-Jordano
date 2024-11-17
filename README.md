@@ -1,6 +1,6 @@
 ### Olá sou SamueL Jordano 👋
 - 📝 Programando meu Sucesso!
-- 🏆 Estudando: C/C++ e Python
+- 🏆 Estudando: C# && sql
 
 <div align="center">
   <a href="https://github.com/Samuel-Jordano">
