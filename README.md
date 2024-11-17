@@ -11,7 +11,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Muca-Js" height="34" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Muca-Html" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Muca-Css" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
-  <img align="right" alt="Muca-pic" height="150" style="border-radius:50px;"
-  src="https://tenor.com/pt-BR/view/spiderman-symbiote-spiderman-marvel-symbiote-gif-14271090">
+  <img align="center" alt="Muca-Css" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Muca-Css" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="MySQL"  height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="right" alt="Venom" height="100" width="188" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN6Zm5tNjlwYnZlMW1oenF3MHFzbmF4aTYzODUyZnF3dTJ5bzE0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66uJQnhBgHPnZCErHa/giphy.gif">
 </div>
