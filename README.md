@@ -14,5 +14,4 @@
   <img align="center" alt="Muca-Css" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="Muca-Css" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="MySQL"  height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Venom" height="100" width="188" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN6Zm5tNjlwYnZlMW1oenF3MHFzbmF4aTYzODUyZnF3dTJ5bzE0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66uJQnhBgHPnZCErHa/giphy.gif">
 </div>
